@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:adawev/NoutStoreFront.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:OdilbekOlimovic/NOUTSTORE.git
